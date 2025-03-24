@@ -31,7 +31,7 @@ This project is a part of the [Learning Go Projects](https://github.com/AlvaroPr
 
 ## Learning Go - An Idiomatic Approach to Real-World Go Programming
 
-This project was written to graps some of the concepts taught in the 'Predeclared Types and Declarations' chapter in the Learning Go book.
+This project was written to graps concepts about integer literals taught in the 'Predeclared Types and Declarations' chapter in the Learning Go book.
 
 ### Integer literal
 
